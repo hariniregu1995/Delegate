@@ -7,7 +7,7 @@ namespace EventsInCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("New Repository");
+            Console.WriteLine("New Repository from GIT");
         }
        
     }
